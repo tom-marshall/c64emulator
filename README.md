@@ -1,2 +1,2 @@
 # c64emulator
-64 emulator written in x86 assembly
+Commodore 64 emulator written in x64 assembly
